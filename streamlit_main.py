@@ -1,3 +1,4 @@
+
 import google.generativeai as genai
 import streamlit as st
 
@@ -10,7 +11,8 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 # Streamlit UI
-st.title("🤖 Chatbot with Gemini AI")
+st.title("🤖 Chatbot ")
+st.subheader("By Praveen")
 st.write("Ask me anything!")
 
 # Display chat history
