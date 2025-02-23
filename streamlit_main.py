@@ -11,7 +11,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 # Streamlit UI
-st.title("🤖 Viper Chatbot ")
+st.title("🤖 Viper Chatbot 🚀 ")
 st.subheader("By Praveen")
 st.write("Ask me anything!")
 
