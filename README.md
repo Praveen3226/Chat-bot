@@ -1,10 +1,10 @@
-🚀 Introducing Viper Chatbot – Your AI-Powered Assistant! 🤖
+🚀 Introducing Bitsmart Chatbot – Your AI-Powered Assistant! 🤖
 
-Excited to share my latest project: Viper Chatbot, an AI-powered conversational assistant built using Google Gemini API and Streamlit! 🎉
+Excited to share my latest project: Bitsmart Chatbot, an AI-powered conversational assistant built using Google Gemini API and Streamlit! 🎉
 
 🔥 Key Features:
 
-✅ Real-time Conversational AI – Powered by Gemini-2.0 Flash, Viper Chatbot generates intelligent and contextual responses.
+✅ Real-time Conversational AI – Powered by Gemini-2.0 Flash, Bitsmart Chatbot generates intelligent and contextual responses.
 ✅ Interactive UI – Built with Streamlit, providing a seamless and intuitive chat experience.
 ✅ Persistent Chat Memory – Maintains chat history for a smooth user experience.
 ✅ User-Friendly & Fast – Just type your query, and Viper responds instantly!
